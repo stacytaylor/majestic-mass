@@ -17,6 +17,8 @@ There are many ways that collaboration can take place in music production. For e
 
 One of the key benefits of collaboration in music production is that it allows for a more diverse and innovative approach to music-making. When individuals from different backgrounds and with different skill sets come together, they can bring a range of perspectives and ideas to the table. This can result in a more dynamic and interesting final product, with elements that may not have been present if the project had been created by just one person.
 
+<img src="https://stacytaylor.design/images/quickstarts/v1Step2.png" alt="Description" class="rounded-2xl shadow-2xl shadow-orange-200 mb-4 aspect-thumbnail object-cover">
+
 Another benefit of collaboration is that it can help to mitigate the risks and challenges that can arise during the music production process. For example, if a musician is struggling to come up with a particular part or melody, another musician may be able to provide a fresh perspective or suggest a new approach. Similarly, if a producer is having difficulty getting a particular sound or effect just right, another engineer may be able to offer some advice or expertise.
 
 ## Challenges

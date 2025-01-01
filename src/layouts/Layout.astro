@@ -6,6 +6,7 @@ interface Props {
 }
 
 import Header from "../components/Header.astro";
+import { ViewTransitions } from "astro:transitions";
 
 const {
   title,
@@ -23,6 +24,7 @@ const {
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
     <meta property="og:image" content="{image}" />
+    <ViewTransitions />
     <title>{title}</title>
   </head>
   <body class="min-h-screen">
@@ -30,3 +32,9 @@ const {
     <slot />
   </body>
 </html>
+
+<style>
+  body {
+    font-family: "Fira Mono", monospace;
+  }
+</style>
